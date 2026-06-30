@@ -22,3 +22,16 @@ Tenho interesse em atuar nas áreas de Mecatrônica e Sistemas Embarcados, busca
 - Eletrônica básica
 - Noções de automação
 
+## 📚 Projetos Acadêmicos
+
+### Hourglass
+Sistema para gerenciamento e monitoramento de tempo, desenvolvido com JavaScript, Node.js e SQLite.
+
+### Projeto Web em Python
+Desenvolvimento de uma página em Python realizado em equipe durante o curso.
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade profissional nas áreas de Mecatrônica ou Sistemas Embarcados, onde possa desenvolver minhas habilidades, adquirir experiência e contribuir para projetos inovadores.
+
+https://br.linkedin.com/in/samara-soares-61b13541b
